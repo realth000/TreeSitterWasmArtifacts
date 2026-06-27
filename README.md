@@ -13,11 +13,13 @@ To build and update wasm parsers:
 3. Add the built wasm file into this repository.
 
 > lang: Parser language name.
+>
 > repo: Upstream parser repository url.
+>
 > revision: The git revision when built parser.
+>
 > ts-version: `tree-sitter` cli version when built parser.
 
 | lang | repo | revision | ts-version |
-| :--- | :--- | :------- | :------------- | :------------- |
+| --- | --- | ------- | ------------- |
 | dart | [nielsenko/tree-sitter-dart](https://github.com/nielsenko/tree-sitter-dart) | b57d734 | 0.26.9 |
- 
