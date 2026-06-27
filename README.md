@@ -22,4 +22,5 @@ To build and update wasm parsers:
 
 | lang | repo | revision | ts-version |
 | --- | --- | ------- | ------------- |
+| cmake | [uyha/tree-sitter-cmake](https://github.com/uyha/tree-sitter-cmake) | c7b2a71 | 0.26.9 |
 | dart | [nielsenko/tree-sitter-dart](https://github.com/nielsenko/tree-sitter-dart) | b57d734 | 0.26.9 |
